@@ -2,7 +2,7 @@
 A simple import *.rb File Gem for Sinatra
 
 
-gem 'devise'
+gem 'importRuby'
 
 bundle install
 
