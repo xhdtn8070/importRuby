@@ -8,6 +8,6 @@ Gem::Specification.new do |s|
     s.email       = 'xhddlf8070@gmail.com'
     s.files       = ["lib/importRuby.rb"]
     s.homepage    =
-      'http://rubygems.org/gems/importRuby'
+      'https://github.com/xhdtn8070/importRuby'
     s.license       = 'MIT'
   end
